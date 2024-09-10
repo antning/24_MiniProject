@@ -5,4 +5,4 @@ To run the file, 'web-crawler.py', on your computer, please follow the instructi
 3. Open ChromeDriver: After downloading, open the file, right-click the 'chromedriver' item and select 'Open with Terminal'. 
 4. Locate ChromeDriver Path: Find the path to 'chromedriver' (e.g., /Users/your_name/Downloads/chromedriver). 
 5. Update the Program: Open the attached program file, and replace the 'chrome_driver_path' variable on line 11 with the path to your chromedriver.
-6. Run it to web-scrape data. 
+6. Run to web-scrape data. 
