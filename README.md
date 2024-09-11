@@ -1,4 +1,4 @@
-To run the file, 'web-crawler.py', on your computer, please follow the instructions below: 
+To run the file, 'web_crawler.py', on your computer, please follow the instructions below: 
 
 1. Check Chrome Version: Open Chrome, click the three dots in the top-right corner → 'Help' → 'About Google Chrome' to find your version. 
 2. Download ChromeDriver: Visit this link and download the ChromeDriver that matches your Chrome version. 
